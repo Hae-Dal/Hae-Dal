@@ -1,3 +1,3 @@
-- 👋 I'm Yong Hwan Jang
+- 👋 I'm Hae Dal
 - 👀 I’m interested in Cocktail recipe & C++ language
 - 🌱 I’m currently learning C/C++, Python etc...
